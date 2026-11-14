@@ -4,3 +4,6 @@
 [submodule "bbh-ClimateUncertaintySpillover"]
 	path = bbh-ClimateUncertaintySpillover
 	url = https://github.com/lphansen/ClimateUncertaintySpillover.git
+[submodule "bbh-ClimatePricingUncertainty"]
+	path = bbh-ClimatePricingUncertainty
+	url = https://github.com/lphansen/ClimateUncertaintySpillover.git
