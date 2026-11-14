@@ -1,3 +1,6 @@
 [submodule "path/to/covid-folder"]
 	path = bby-covid-submodule
 	url = https://github.com/mbarnet0/Covid.git
+[submodule "bbh-ClimateUncertaintySpillover"]
+	path = bbh-ClimateUncertaintySpillover
+	url = https://github.com/lphansen/ClimateUncertaintySpillover.git
