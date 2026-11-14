@@ -7,3 +7,6 @@
 [submodule "bbh-ClimatePricingUncertainty"]
 	path = bbh-ClimatePricingUncertainty
 	url = https://github.com/lphansen/ClimateUncertaintySpillover.git
+[submodule "bbh-ClimatePricingUncertainty-RFS"]
+	path = bbh-ClimatePricingUncertainty-RFS
+	url = https://github.com/lphansen/Climate.git
